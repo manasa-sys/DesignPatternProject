@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mcdoproject.Aliclub" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aliclub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.AliclubDrink" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAAIAAAAAAAAAAAAAAAAAAAIAAAAAAAACA=</HashCode>
+      <FileName>AliclubDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.AliclubPizza" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAAAgAAAAAAAAAAAEAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>AliclubPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.AliclubSandwich" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAEAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>AliclubSandwich.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Aliclubsidedish" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAAAAAAAAAAAAAAgAAAIAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Aliclubsidedish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Hawaian" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hawaian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.HawaianDrink">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>HawaianDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.HawaianSandwich">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>HawaianSandwich.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Hawaiansidedish" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Hawaiansidedish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.HawaianPizza" Collapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>HawainPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Veggy">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veggy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.VeggyDrink">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>VeggyDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.VeggyPizza">
+    <Position X="1" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>VeggyPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.VeggySandwich">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>VeggySandwich.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Veggysidedish">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Veggysidedish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Abstractfactory">
+    <Position X="4.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQBgAAAAAAAAAQAAAAAAEAAAgAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Abstractfactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Pizzafactory">
+    <Position X="1" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Pizzafactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Drinkfactory">
+    <Position X="3.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Drinkfactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Sandwichfactory">
+    <Position X="5.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Sandwichfactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mcdoproject.Sidedishfactory">
+    <Position X="8" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAAACAAAAAAAAA=</HashCode>
+      <FileName>sidedishfactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
